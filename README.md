@@ -1,4 +1,4 @@
-# 👋Welcome to my Profile: 
+# 👋Welcome to my Profile:
 💫Full Stack Software Developer with passion for creating amazing online experiences.<br>🔭 I’m currently working on personal projects.<br>🌱 I’m currently learning NodeJs.<br>📫 Reach me here: leorp392@yahoo.com
 
 
